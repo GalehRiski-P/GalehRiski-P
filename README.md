@@ -1,33 +1,53 @@
-# Hi ðŸ‘‹, I'm Galeh Riski Prasetio
+## Building in public
 
-### A passionate developer from around the world
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=GalehRiski-P&label=Profile views&color=0e75b6&style=flat" alt="GalehRiski-P" /> </p>
+# Galeh Riski Prasetio
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=GalehRiski-P" alt="GalehRiski-P" /></a> </p>
+> Technical founder
 
-- ðŸŒ± I'm currently learning **Javascript, Nodejs, Python, and Html**
-
-- ðŸ‘¯ I'm looking to collaborate on **Open source project**
-
-- ðŸ¤ I'm looking for help with **Learning system design**
-
-- ðŸ’¬ Ask me about **Web Development**
-
-- ðŸ“« How to reach me **galehriskiprasetyo@gmail.com**
-
-- âš¡ Fun fact **I understand the basics of financial accounting.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/GalehRiski-P" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GalehRiski-P" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/hero?username=galehriski-p&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F298271452%3Fv%3D4" alt="galehriski-p hero visual" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/gcp" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=gcp" alt="gcp" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/seaborn" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/webpack" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=webpack" alt="webpack" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/zapier" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/zapier/FF4A00" alt="zapier" width="40" height="40"/> </a></p>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=GalehRiski-P&show_icons=true&locale=en&layout=compact" alt="GalehRiski-P" /></p>
+## The point of view
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=GalehRiski-P&show_icons=true&locale=en" alt="GalehRiski-P" /></p>
+> Code, break, fix, repeat | Open to learning &amp; collaborating
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=GalehRiski-P&" alt="GalehRiski-P" /></p>
+- 👥 **1** followers · **0** following
+
+*Small, useful work over vague claims.*
+
+## What I’m shipping
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/highlights?username=galehriski-p&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F298271452%3Fv%3D4" alt="galehriski-p highlights visual" />
+</p>
+
+<p><b>Galeh Riski Prasetio</b> is shipping 3 public projects with 0 stars of proof.</p>
+
+## Products and proof
+
+<table>
+<tr><td width="32%"><b><a href="https://github.com/GalehRiski-P/cv">cv</a></b></td><td>A selected project from this GitHub profile.<br/><sub>open source · 0 stars</sub></td></tr>
+<tr><td width="32%"><b><a href="https://github.com/GalehRiski-P/session">session</a></b></td><td>A selected project from this GitHub profile.<br/><sub>JavaScript · 0 stars</sub></td></tr>
+<tr><td width="32%"><b><a href="https://github.com/GalehRiski-P/GalehRiski-P">GalehRiski-P</a></b></td><td>A selected project from this GitHub profile.<br/><sub>open source · 0 stars</sub></td></tr>
+</table>
+
+## Momentum
+
+<table>
+<tr><td align="center"><b>3</b><br/><sub>repos</sub></td><td align="center"><b>0</b><br/><sub>stars</sub></td><td align="center"><b>15</b><br/><sub>contributions</sub></td></tr>
+</table>
+
+## Start a conversation
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/social?username=galehriski-p&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F298271452%3Fv%3D4" alt="galehriski-p social visual" />
+</p>
+
+<a href="https://github.com/galehriski-p">GitHub</a>
+
+<p align="center"><sub>Galeh Riski Prasetio · Founder profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
