@@ -23,7 +23,7 @@
 
 </div>
 
-Building in public — one commit at a time. Focused on shipping real projects, learning continuously, and collaborating openly.
+Building in public, one commit at a time. Focused on shipping real projects, learning continuously, and collaborating openly.
 
 ---
 
